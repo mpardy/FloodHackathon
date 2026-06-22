@@ -1,0 +1,10 @@
+
+
+# Main Goal 
+
+The aim of these two days are
+- Detecting displacement peaks
+- Predicting the most severe displacement
+
+
+
