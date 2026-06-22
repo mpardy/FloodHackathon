@@ -121,7 +121,7 @@ K --> L[Validation with IOM DTM]
 L --> M[Option A:<br>Humanitarian Stress Map]
 L --> N[Option B:<br>Predictive Model]
 
-M --> O[Dashboard / Situation Report]
+M --> O[Indicator / Situation Analysis]
 N --> O
 
 O --> P[District Prioritisation for Response]
