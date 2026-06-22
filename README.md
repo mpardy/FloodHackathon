@@ -33,7 +33,7 @@ Can mobility anomalies act as an early warning indicator of humanitarian stress 
 
 ## Proposed Approaches
 
-### Option A – Humanitarian Stress Index (Primary)
+### Option A – Humanitarian Stress Index
 
 Combine:
 
@@ -85,6 +85,8 @@ Questions:
 
 ---
 ### Option C - Combine both
+
+---
 ## Possible Flowwork
 ```mermaid
 flowchart TD
