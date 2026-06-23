@@ -144,15 +144,21 @@ O --> P[District Prioritisation for Response]
 
 ---
 
-## Expected Deliverables
+## Expected Deliverables ( Early Warning Framework )
 
-- Mobility Anomaly Analysis
-- Flood Severity Analysis
-- Vulnerability Assessment
-- Humanitarian Stress Index
-- District Priority Map
-- Early Warning Framework
+### Mobility Anomaly Analysis
+- Deliverable: District Priority Map
+- Deliverable: 3D Animation vizulization
+
+### Vulnerability Assessment
+More concretely: Humanitarian Stress Index
+-Deliverable: District Priority Map
+- Deliverable: 3D Animation vizulization
+
+  ## Sanity Checks
 - Validation Against IOM DTM Data
+
+  
 - Final Hackathon Presentation
 
 ---
