@@ -38,13 +38,12 @@ Can mobility anomalies act as an early warning indicator of humanitarian stress 
 Combine:
 
 * Flood Severity
-* Mobility Anomaly
 * Vulnerability
 
 Output:
 
 * Priority District Ranking
-* Humanitarian Stress Dashboard
+* Humanitarian Stress
 * Early Warning Map
 
 Workflow:
