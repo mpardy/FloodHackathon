@@ -16,7 +16,7 @@ Coming Soon
 
 ## Project
 
-### Beyond Flood Maps: Detecting Humanitarian Stress Before Displacement Peaks 
+### Beyond Flood Maps: Anticipating Humanitarian Stress Through Mobility and Vulnerability Signals
 
 
 Flood impacts often become visible in official displacement statistics only after humanitarian needs have already escalated. This project explores whether mobility anomalies, flood indicators, and vulnerability information can provide earlier signals of humanitarian stress and support anticipatory action.
@@ -33,7 +33,7 @@ Can mobility anomalies act as an early warning indicator of humanitarian stress 
 
 ## Proposed Approaches
 
-### Option A – Humanitarian Stress Index
+### Humanitarian Stress Index
 
 Combine:
 
@@ -63,7 +63,7 @@ Rainfall + Flood Extent
 
 ---
 
-### Option B – Mobility as an Early Warning Signal
+### Mobility as an Early Warning Signal
 
 Investigate whether unusual mobility patterns occur before displacement peaks.
 
@@ -84,9 +84,7 @@ Questions:
 * Can mobility act as an early warning indicator?
 
 ---
-### Option C - Combine both
 
----
 ## Possible Flowwork
 ```mermaid
 flowchart TD
@@ -118,8 +116,8 @@ J --> K[Early Warning Framework]
 
 K --> L[Validation with IOM DTM]
 
-L --> M[Option A:<br>Humanitarian Stress Map]
-L --> N[Option B:<br>Predictive Model]
+L --> M[<br>Humanitarian Stress Map]
+L --> N[<br>Mobility Pattern]
 
 M --> O[Indicator / Situation Analysis]
 N --> O
