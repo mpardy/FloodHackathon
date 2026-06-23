@@ -76,10 +76,8 @@ Mobility Anomaly
 Displacement Peak
 ```
 
-Questions:
+Question:
 
-* Do mobility anomalies appear before displacement?
-* How many days earlier?
 * Can mobility act as an early warning indicator?
 
 ---
