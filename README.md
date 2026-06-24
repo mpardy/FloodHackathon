@@ -1,18 +1,38 @@
 # FloodTraces Hackathon 2026
 
-## Quick Links
+## Notebook Structure
 
-📂 Dataset Repository (Zenodo)
-https://zenodo.org/records/20728877
+01_GRDI_Exploration └─ District-level deprivation analysis
 
-📖 Project Documentation
-Coming Soon
+02_WorldPop_Population └─ Population exposure analysis
 
-🚨 Early Warning Framework
-Coming Soon
+03_Vulnerability_Index Inputs: - GRDI - Population
 
-📊 Analysis Results
-Coming Soon
+Weights: - GRDI_WEIGHT = 0.50 - POP_WEIGHT = 0.50 #need to update
+
+Output: - Vulnerability Index - Vulnerability Map - Top Vulnerable Districts
+
+04_Flood_Exposure Inputs: - Flood Extent (2022 / 2025) - District Boundaries
+
+Output: - Flooded Area per District - Flood Exposure Layer
+
+05_Priority_Index Inputs: - Vulnerability Index - Flood Exposure
+
+Weights: - VULNERABILITY_WEIGHT = 0.50 - FLOOD_WEIGHT = 0.50 #need to update
+
+Output: - Flood-Exposed Vulnerability - Priority District Map - Top Priority Districts
+
+06_Mobility_Analysis Inputs: - Meta Population - Meta Mobility
+
+Output: - Mobility Anomaly Index - Early Movement Signals
+
+07_Humanitarian_Stress_Index Inputs: - Priority Index - Mobility Anomaly Index
+
+Weights: - PRIORITY_WEIGHT = 0.50 - MOBILITY_WEIGHT = 0.50
+
+Output: - Humanitarian Stress Index - Early Warning Districts
+
+
 
 ## Project
 
